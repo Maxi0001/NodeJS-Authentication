@@ -1,0 +1,20 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2",
+    "sha256": "^0.2.0",
+    "systeminformation": "^4.26.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxi",
+  "license": "ISC"
+}
